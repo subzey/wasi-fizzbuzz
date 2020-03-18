@@ -1,5 +1,5 @@
 [package]
-name = "fizzbuzz"
+name = "subzey/fizzbuzz"
 version = "1.0.0"
 description = "Prints out FizzBuzz, see https://en.wikipedia.org/wiki/Fizz_buzz"
 license = "WTFPL"
