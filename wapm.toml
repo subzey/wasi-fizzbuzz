@@ -1,9 +1,10 @@
 [package]
 name = "subzey/fizzbuzz"
-version = "1.0.0"
+version = "1.0.1"
 description = "Prints out FizzBuzz, see https://en.wikipedia.org/wiki/Fizz_buzz"
 license = "WTFPL"
 repository = "https://github.com/subzey/wasi-fizzbuzz"
+readme = "readme.md"
 
 [[module]]
 name = "fizzbuzz"
